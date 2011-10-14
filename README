@@ -1,0 +1,11 @@
+formphp-xajax es un ejemplo de formulario usando php y xajax adicionalmente se utiliza la libreria recaptcha de google.
+
+2011 Jorge Brunal a.k.a. Diniremix
+
+reCAPTCHA README
+================
+
+The reCAPTCHA PHP Lirary helps you use the reCAPTCHA API. Documentation
+for this library can be found at
+
+	http://recaptcha.net/plugins/php
